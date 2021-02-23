@@ -19,6 +19,6 @@
   "homepage": "https://github.com/danielr18/pi-local-s3rver#readme",
   "dependencies": {
     "aws-sdk": "^2.176.0",
-    "s3rver": "^1.0.3"
+    "s3rver": "^2.0.0"
   }
 }
